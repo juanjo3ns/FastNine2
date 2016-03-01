@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dim_button">80dp</dimen>
+    <dimen name="dim_counter">95dp</dimen>
+    <dimen name="paddding_button">11dp</dimen>
+    <dimen name="num_size">45sp</dimen>
+    <dimen name="point_size">20sp</dimen>
+    <dimen name="over">50sp</dimen>
+    <dimen name="puntuation">35sp</dimen>
+    <dimen name="padding_gameover">20dp</dimen>
+    <dimen name="best_score">30sp</dimen>
+    <dimen name="choose">30sp</dimen>
+    <dimen name="best_score_num">50sp</dimen>
+    <dimen name="ad_margin">43dp</dimen>
+    <dimen name="medalla">60dp</dimen>
+    <dimen name="ancho_base">82dp</dimen>
+    <dimen name="altura_base">17dp</dimen>
+    <dimen name="all_medallas_ancho">53dp</dimen>
+    <dimen name="all_medallas_alto">80dp</dimen>
+</resources>
